@@ -62,9 +62,9 @@
 
 \renewcommand{\labelitemii}{$\circ$}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[label={},leftmargin=*]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[label={}]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 %-------------------------------------------
@@ -76,7 +76,8 @@
 %----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
   \textbf{\href{https://kyletkennedy.com/}{\Large Kyle Kennedy}} & \href{mailto:me@kyletkennedy.com}{me@kyletkennedy.com}\\
-  \href{https://kyletkennedy.com/}{https://kyletkennedy.com} & +1-704-450-1717 \\
+  \href{https://kyletkennedy.com/}{kyletkennedy.com} & +1-704-450-1717 \\
+  \href{https://linkedin.com/in/kyletkennedy}{linkedin.com/in/kyletkennedy} & \href{https://github.com/kylekennedy26}{github.com/kylekennedy26} \\
 \end{tabular*}
 
 
@@ -84,18 +85,18 @@
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Georgia Institute of Technology}{Atlanta, GA}
-      {Master of Science in Computer Science;  GPA: 4.00}{Aug. 2012 -- Dec. 2013}
+      {Appalachian State University}{Boone, NC}
+      {Bachelor of Science in Computer Science}{Aug. 2017 - Dec. 2022}
   \resumeSubHeadingListEnd
 
 
 %-----------EXPERIENCE-----------------
-\section{Experience}
+\section{Professional Experience}
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {Google}{Mountain View, CA}
-      {Software Engineer}{Oct 2016 - Present}
+      {Mountain Dev}{Boone, NC}
+      {Technical Lead}{November 2025 - Present}
       \resumeItemListStart
         \resumeItem{Tensorflow}
           {TensorFlow is an open source software library for numerical computation using data flow graphs; primarily used for training deep learning models.}
@@ -104,8 +105,8 @@
       \resumeItemListEnd
 
     \resumeSubheading
-      {Coursera}{Mountain View, CA}
-      {Senior Software Engineer}{Jan 2014 - Oct 2016}
+      {ECR Software Corporation}{Boone, NC}
+      {Full-Stack Software Engineer}{January 2023 - October 2025}
       \resumeItemListStart
         \resumeItem{Notifications}
           {Service for sending email, push and in-app notifications. Involved in features such as delivery time optimization, tracking, queuing and A/B testing. Built an internal app to run batch campaigns for marketing etc.}
@@ -127,21 +128,18 @@
           {Instructor dashboards and learner surveying tools, which helped instructors run their class better by providing data on Assignments and Learner Activity.}
       \resumeItemListEnd
 
-    \resumeSubheading
-      {Lucena Research}{Atlanta, GA}
-      {Data Scientist}{Summer 2012 and 2013}
-      \resumeItemListStart
-        \resumeItem{Portfolio Management}
-          {Created models for portfolio hedging,  portfolio optimization and price forecasting. Also creating a strategy backtesting engine used for simulating and backtesting strategies.}
-        \resumeItem{QuantDesk}
-          {Python backend for a web application used by hedge fund managers for portfolio management.}
-      \resumeItemListEnd
-
   \resumeSubHeadingListEnd
 
+%--------PROGRAMMING SKILLS------------
+\section{Skills, Tools, and Technologies}
+ \resumeSubHeadingListStart
+   \item \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+     \textbf{Languages}{: Java, Python, SQL, JavaScript, } & \textbf{Frameworks}{: AWS, Play, React, Kafka, GCE}
+   \end{tabular*}
+ \resumeSubHeadingListEnd
 
-%-----------PROJECTS-----------------
-\section{Projects}
+ %-----------AWARDS-----------------
+\section{AWARDS}
   \resumeSubHeadingListStart
     \resumeSubItem{QuantSoftware Toolkit}
       {Open source python library for financial data analysis and machine learning for finance.}
@@ -153,17 +151,4 @@
 %       {Book that gives step by step instructions on setting up developer environment on Mac OS.}
   \resumeSubHeadingListEnd
 
-%
-%--------PROGRAMMING SKILLS------------
-\section{Programming Skills}
- \resumeSubHeadingListStart
-   \item{
-     \textbf{Languages}{: Scala, Python, Javascript, C++, SQL, Java}
-     \hfill
-     \textbf{Technologies}{: AWS, Play, React, Kafka, GCE}
-   }
- \resumeSubHeadingListEnd
-
-
-%-------------------------------------------
 \end{document}

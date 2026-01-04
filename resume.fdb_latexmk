@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1767488261.7027 "c:/Users/kylet/resume/resume.tex" "resume.pdf" "resume" 1767488262.33457 0
-  "c:/Users/kylet/resume/resume.tex" 1767488261 6744 2625d1d974e24e58cd65b9292ac904f7 ""
+["pdflatex"] 1767488834.71292 "c:/Users/kylet/resume/resume.tex" "resume.pdf" "resume" 1767488835.34852 0
+  "c:/Users/kylet/resume/resume.tex" 1767488834 6327 3052fdd2318a74a6016c35be7e4d6e2d ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1767394115 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1767395053 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1767394632 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -77,9 +77,9 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767399002 5587484 30eee748fa419a911c40b0c750dd21ba ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767399111 3635695 7a8a9eada9878fff6eca46e0e3a54891 ""
   "c:/texlive/2025/texmf.cnf" 1767398987 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1767488262 595 91bc3f173b3a760a7e8e349ea0086c59 "pdflatex"
-  "resume.out" 1767488262 400 aeec9d5489ba887d416e12a4924ddacb "pdflatex"
-  "resume.tex" 1767488261 6744 2625d1d974e24e58cd65b9292ac904f7 ""
+  "resume.aux" 1767488835 619 7d2822413a86c71d2c39e6f5471e3fcc "pdflatex"
+  "resume.out" 1767488835 529 8e3fabe5cda151ef01ed7763480f386f "pdflatex"
+  "resume.tex" 1767488834 6327 3052fdd2318a74a6016c35be7e4d6e2d ""
   (generated)
   "resume.aux"
   "resume.log"

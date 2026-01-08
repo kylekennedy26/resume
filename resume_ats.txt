@@ -1,0 +1,30 @@
+Kyle Kennedy
+kylethomaskennedy@gmail.com | +1-704-450-1717 | linkedin.com/in/kyletkennedy | github.com/kylekennedy26
+
+EDUCATION
+Appalachian State University — Bachelor of Science in Computer Science, Dec 2022
+
+PROFESSIONAL EXPERIENCE
+Mountain Dev — Technical Lead (Nov 2025 - Present)
+- Full-Stack Development: Built web application for visualizing aerial emissions inspection data using Mapbox; added data export to KMZ, Excel, and PDF for client reporting.
+- Architecture: Collaborated on system design and implemented full stack with FastAPI, Next.js, and PostgreSQL.
+- Team Leadership: Led a team of 4 developers across multiple time zones; coordinated code reviews, sprint planning, and delivery.
+
+ECR Software Corporation — Full-Stack Software Engineer III (Jan 2023 - Oct 2025)
+- Career Growth: Promoted twice from Junior to Expert based on technical ownership and delivery.
+- Mobile Development: Owned end-to-end mobile apps for iOS and Android; reduced crash rates by 25% and ANR rates by 50% for 1,500+ regular users.
+- Security: Reduced critical vulnerabilities by 90% across 5+ applications by integrating NexusIQ and secure CI/CD practices.
+- Code Quality: Reduced technical debt by 60% (SonarQube); increased unit test coverage from 0% to 40% on legacy Java codebase (~300k LoC).
+- Build Optimization: Improved Maven builds and dependency management, cutting build times by ~33% (2h → 80m).
+- Client Engagement: Presented roadmaps at customer conferences and translated feedback into prioritized work.
+
+SKILLS
+Languages: Java, SQL, Python, TypeScript
+Frameworks: FastAPI, Next.js, Vue.js, React, GWT
+Databases: PostgreSQL, SAP SQLAnywhere
+Infrastructure & Cloud: Apache Tomcat, GitLab CI/CD, Docker, AWS
+Tools: Maven, Git, SonarQube, NexusIQ, Gradle, Android Studio, Xcode
+
+AWARDS
+- ECRS Rookie of the Year Award 2023: Peer-voted top performing new hire.
+- ECRS Values MVP Award Q2 2023, Q1 2024: Peer-voted award for exemplifying company values.

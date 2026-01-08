@@ -20,7 +20,7 @@ ECR Software Corporation — Full-Stack Software Engineer III (Jan 2023 - Oct 20
 
 SKILLS
 Languages: Java, SQL, Python, TypeScript
-Frameworks: FastAPI, Next.js, Vue.js, React, GWT
+Frameworks & Libraries: FastAPI, Next.js, React, Vue.js, GWT
 Databases: PostgreSQL, SAP SQLAnywhere
 Infrastructure & Cloud: Apache Tomcat, GitLab CI/CD, Docker, AWS
 Tools: Maven, Git, SonarQube, NexusIQ, Gradle, Android Studio, Xcode

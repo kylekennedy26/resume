@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1768331561.41338 "c:/Users/kylet/resume/resume.tex" "resume.pdf" "resume" 1768331561.97069 2
-  "c:/Users/kylet/resume/resume.tex" 1768331560 5658 320b461e243b143de4e1963204a23485 ""
+["pdflatex"] 1768331701.32155 "c:/Users/kylet/resume/resume.tex" "resume.pdf" "resume" 1768331701.97633 0
+  "c:/Users/kylet/resume/resume.tex" 1768331701 5659 183d9d3d3dddebdc6d984560646dd00c ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1767395053 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1767394104 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1767394104 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -18,6 +18,11 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm" 1767395858 520 82a3d37183f34b6eb363a161dfc002c2 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1767395858 520 4889cce2180234b97cad636b6039c722 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm" 1767395858 520 7bb3abb160b19e0ed6ac404bb59052b7 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1767393341 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1767393341 32080 340ef9bf63678554ee606688e7b5339d ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1767393341 32001 6aeea3afe875097b1eb0da29acd61e28 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1767393341 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1767393341 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1767396522 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1767393794 40635 c40361e206be584d448876bba8a64a3b ""
   "c:/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty" 1767393806 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -61,10 +66,12 @@
   "c:/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty" 1767398376 7532 26d26e9d8f2ca784270d5da8ec7d102b ""
   "c:/texlive/2025/texmf-dist/tex/latex/url/url.sty" 1767398629 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "c:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1767393220 42213 4e2ca030e8e2640502016e9e45868dcb ""
+  "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767399002 5587484 30eee748fa419a911c40b0c750dd21ba ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767399111 3635695 7a8a9eada9878fff6eca46e0e3a54891 ""
   "c:/texlive/2025/texmf.cnf" 1767398987 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1768331561 138 dfd98a311dd1033c83c001c747190af7 "pdflatex"
-  "resume.tex" 1768331560 5658 320b461e243b143de4e1963204a23485 ""
+  "resume.aux" 1768331701 619 7d2822413a86c71d2c39e6f5471e3fcc "pdflatex"
+  "resume.out" 1768331701 529 8e3fabe5cda151ef01ed7763480f386f "pdflatex"
+  "resume.tex" 1768331701 5659 183d9d3d3dddebdc6d984560646dd00c ""
   (generated)
   "resume.aux"
   "resume.log"

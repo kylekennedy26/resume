@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  13 JAN 2026 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  13 JAN 2026 14:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/kylet/resume/resume.tex
-(c:/Users/kylet/resume/resume.tex
+**"c:/Users/kylet/resume/Kyle Kennedy.tex"
+(c:/Users/kylet/resume/Kyle Kennedy.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
 (c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -191,8 +191,8 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 ) (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count297
-) (./resume.aux)
-\openout1 = `resume.aux'.
+) (./Kyle Kennedy.aux)
+\openout1 = `"Kyle Kennedy.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
@@ -227,9 +227,9 @@ LaTeX Font Info:    ... okay on input line 74.
 \everyMPtoPDFconversion=\toks25
 )
 Package hyperref Info: Link coloring OFF on input line 74.
- (./resume.out) (./resume.out)
+ (./Kyle Kennedy.out) (./Kyle Kennedy.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `"Kyle Kennedy.out"'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 77.
@@ -248,24 +248,24 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Kyle Kennedy.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
-Package rerunfilecheck Info: File `resume.out' has not changed.
+Package rerunfilecheck Info: File `"Kyle Kennedy".out' has not changed.
 (rerunfilecheck)             Checksum: 8E3FABE5CDA151EF01ED7763480F386F;529.
  ) 
 Here is how much of TeX's memory you used:
- 9653 strings out of 467538
- 148070 string characters out of 5423726
- 583862 words of memory out of 5000000
- 38467 multiletter control sequences out of 15000+600000
+ 9655 strings out of 467538
+ 148246 string characters out of 5423726
+ 583896 words of memory out of 5000000
+ 38469 multiletter control sequences out of 15000+600000
  632995 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,275b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,283b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 87945 bytes).
+Output written on "Kyle Kennedy.pdf" (1 page, 87945 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

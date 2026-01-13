@@ -2,8 +2,8 @@ PWD c:/Users/kylet/resume
 INPUT c:/texlive/2025/texmf.cnf
 INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/kylet/resume/resume.tex
-OUTPUT resume.log
+INPUT c:/Users/kylet/resume/Kyle Kennedy.tex
+OUTPUT Kyle Kennedy.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/size11.clo
@@ -94,21 +94,21 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./resume.aux
-INPUT ./resume.aux
-INPUT resume.aux
-OUTPUT resume.aux
+INPUT ./Kyle Kennedy.aux
+INPUT ./Kyle Kennedy.aux
+INPUT Kyle Kennedy.aux
+OUTPUT Kyle Kennedy.aux
 INPUT c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT ./resume.out
-INPUT ./resume.out
-INPUT resume.out
-INPUT resume.out
-OUTPUT resume.pdf
-INPUT ./resume.out
-INPUT ./resume.out
-OUTPUT resume.out
+INPUT ./Kyle Kennedy.out
+INPUT ./Kyle Kennedy.out
+INPUT Kyle Kennedy.out
+INPUT Kyle Kennedy.out
+OUTPUT Kyle Kennedy.pdf
+INPUT ./Kyle Kennedy.out
+INPUT ./Kyle Kennedy.out
+OUTPUT Kyle Kennedy.out
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -131,9 +131,9 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT resume.aux
-INPUT ./resume.out
-INPUT ./resume.out
+INPUT Kyle Kennedy.aux
+INPUT ./Kyle Kennedy.out
+INPUT ./Kyle Kennedy.out
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  16 JAN 2026 15:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  21 JAN 2026 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -248,7 +248,7 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `"Kyle Kennedy".out' has not changed.
-(rerunfilecheck)             Checksum: 8E3FABE5CDA151EF01ED7763480F386F;529.
+(rerunfilecheck)             Checksum: BF6939381A53DB6C9190C346B83B0866;529.
  ) 
 Here is how much of TeX's memory you used:
  9655 strings out of 467538
@@ -259,7 +259,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,283b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Kyle Kennedy.pdf" (1 page, 87945 bytes).
+Output written on "Kyle Kennedy.pdf" (1 page, 87954 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

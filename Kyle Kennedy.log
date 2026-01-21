@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  21 JAN 2026 13:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  21 JAN 2026 13:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -248,21 +248,21 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `"Kyle Kennedy".out' has not changed.
-(rerunfilecheck)             Checksum: BF6939381A53DB6C9190C346B83B0866;529.
+(rerunfilecheck)             Checksum: 0F5A69E59B9B75BFE3F11547916B01A5;675.
  ) 
 Here is how much of TeX's memory you used:
- 9655 strings out of 467538
- 148246 string characters out of 5423726
- 583896 words of memory out of 5000000
- 38469 multiletter control sequences out of 15000+600000
+ 9657 strings out of 467538
+ 148266 string characters out of 5423726
+ 585896 words of memory out of 5000000
+ 38470 multiletter control sequences out of 15000+600000
  632995 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,283b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,660b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Kyle Kennedy.pdf" (1 page, 87954 bytes).
+Output written on "Kyle Kennedy.pdf" (1 page, 88923 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

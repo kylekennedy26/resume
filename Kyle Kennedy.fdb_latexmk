@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1769994631.36565 "c:/Users/kylet/resume/Kyle Kennedy.tex" "Kyle Kennedy.pdf" "Kyle Kennedy" 1769994632.03229 0
-  "Kyle Kennedy.aux" 1769994631 736 aa59178ee2b40f79f7701a914218fbd2 "pdflatex"
-  "Kyle Kennedy.out" 1769994631 675 0f5a69e59b9b75bfe3f11547916b01a5 "pdflatex"
-  "Kyle Kennedy.tex" 1769994630 6359 42499357b36abd2eb493a1a9ff6896b8 ""
-  "c:/Users/kylet/resume/Kyle Kennedy.tex" 1769994630 6359 42499357b36abd2eb493a1a9ff6896b8 ""
+["pdflatex"] 1769995638.03079 "c:/Users/kylet/resume/Kyle Kennedy.tex" "Kyle Kennedy.pdf" "Kyle Kennedy" 1769995638.64841 0
+  "Kyle Kennedy.aux" 1769995638 736 aa59178ee2b40f79f7701a914218fbd2 "pdflatex"
+  "Kyle Kennedy.out" 1769995638 675 0f5a69e59b9b75bfe3f11547916b01a5 "pdflatex"
+  "Kyle Kennedy.tex" 1769995637 5712 b6d0b4e16f87630f63250668e4184e27 ""
+  "c:/Users/kylet/resume/Kyle Kennedy.tex" 1769995637 5712 b6d0b4e16f87630f63250668e4184e27 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1767395053 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1767394104 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1767394104 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -25,6 +25,7 @@
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1767393341 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1767393341 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1767393341 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1767393341 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1767393341 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1767396522 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1767393794 40635 c40361e206be584d448876bba8a64a3b ""

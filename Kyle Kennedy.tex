@@ -41,7 +41,14 @@
 % Custom commands
 \newcommand{\resumeItem}[2]{
   \item\small{
-    \textbf{#1}{: #2 \vspace{-2pt}}
+    \textbf{#1} #2 \vspace{-2pt}
+  }
+}
+
+% Non-bold variant for professional experience headings
+\newcommand{\resumeItemNoBold}[2]{
+  \item\small{
+    #1 #2 \vspace{-2pt}
   }
 }
 
@@ -77,7 +84,7 @@
 
 %-----------PROFESSIONAL SUMMARY-----------------
 \section{Professional Summary}
-Technical leader with 3+ years of full-stack development experience and proven expertise in architecting scalable web and mobile applications. Demonstrated ability to drive technical excellence, reduce critical vulnerabilities, and improve code quality across complex systems. Strong background in Java, Python, TypeScript, and modern frameworks (FastAPI, Next.js, React). Skilled at leading cross-functional teams, optimizing system performance, and translating technical solutions to client needs. Committed to clean code practices, security-first development, and continuous process improvement.
+Full-Stack Software Engineer with 3+ years of experience building and shipping web and mobile applications. I am comfortable with 
 
 %-----------EXPERIENCE-----------------
 \section{Professional Experience}
@@ -86,33 +93,23 @@ Technical leader with 3+ years of full-stack development experience and proven e
     \resumeSubheading
       {Mountain Dev}{Boone, NC}
       {Technical Lead}{November 2025 - Present}
-      \resumeItemListStart
-        \resumeItem{Full-Stack Development}
-          {Built web application for visualizing aerial emissions inspection data using Mapbox, with data export functionality supporting KMZ, Excel, and PDF formats for client reporting.}
-        \resumeItem{Architecture}
-          {Collaborated with leadership on system design; implemented full stack using FastAPI, Next.js, and PostgreSQL.}
-        \resumeItem{Team Leadership}
-          {Led team of 3 developers across multiple time zones, coordinating code reviews, sprint planning, and delivery.}
-
-      \resumeItemListEnd
+      \begin{itemize}[leftmargin=*]
+        \item Built web application for visualizing aerial emissions inspection data using Mapbox, with data export functionality supporting KMZ, Excel, and PDF formats for client reporting.
+        \item Collaborated with leadership on system design; implemented full stack using FastAPI, Next.js, and PostgreSQL.
+        \item Led team of 3 developers across multiple time zones, coordinating code reviews, sprint planning, and delivery.
+      \end{itemize}
 
     \resumeSubheading
       {ECR Software Corporation}{Boone, NC}
       {Full-Stack Software Engineer}{January 2023 - October 2025}
-      \resumeItemListStart
-        \resumeItem{Career Growth}
-          {Promoted twice in under three years, advancing from Junior to Expert based on technical ownership and consistent delivery.}
-        \resumeItem{Mobile Development}
-          {Led end-to-end mobile app lifecycle as sole engineer for iOS and Android, reducing crash rates by 25\% and ANR rates by 50\% while serving 1,500+ regular users.}
-        \resumeItem{Security}
-          {Eliminated 90\% of critical vulnerabilities across 5+ applications by implementing NexusIQ and enforcing secure CI/CD pipelines.}
-        \resumeItem{Code Quality}
-          {Reduced technical debt by 60\% (measured via SonarQube); increased unit test coverage from 0\% to 40\% on legacy Java codebase (300k+ LoC).}
-        \resumeItem{Build Optimization}
-          {Implemented Maven build optimizations and dependency management improvements, reducing build times by 33\% from 2 hours down to 80 minutes.}
-        \resumeItem{Client Engagement}
-          {Represented engineering at annual customer conferences, presenting roadmaps and translating client feedback into development priorities.}
-        \resumeItemListEnd
+      \begin{itemize}[leftmargin=*]
+        \item Promoted twice in under three years, advancing from Junior to Expert based on technical ownership and consistent delivery.
+        \item Led end-to-end mobile app lifecycle as sole engineer for iOS and Android, reducing crash rates by 25\% and ANR rates by 50\% while serving 1,500+ regular users.
+        \item Eliminated 90\% of critical vulnerabilities across 5+ applications by implementing NexusIQ and enforcing secure CI/CD pipelines.
+        \item Reduced technical debt by 60\% (measured via SonarQube); increased unit test coverage from 0\% to 40\% on legacy Java codebase (300k+ LoC).
+        \item Implemented Maven build optimizations and dependency management improvements, reducing build times by 33\% from 2 hours down to 80 minutes.
+        \item Represented engineering at annual customer conferences, presenting roadmaps and translating client feedback into development priorities.
+      \end{itemize}
 
   \resumeSubHeadingListEnd
 
